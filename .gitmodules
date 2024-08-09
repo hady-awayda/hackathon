@@ -1,6 +1,8 @@
 [submodule "backend"]
     path = backend
     url = https://github.com/hady-awayda/hackathon-backend.git
+	branch = main
 [submodule "frontend"]
     path = frontend
     url = https://github.com/hady-awayda/hackathon-frontend.git
+	branch = main
