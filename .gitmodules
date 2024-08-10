@@ -6,3 +6,7 @@
     path = frontend
     url = https://github.com/hady-awayda/hackathon-frontend.git
 	branch = main
+[submodule "dvc"]
+	path = dvc
+	url = https://github.com/aliosayle/playstore_data_hackathon.git
+	branch = main
